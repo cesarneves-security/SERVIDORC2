@@ -1,6 +1,5 @@
-# Servidor C2 com SSL
----
 #SERVIDOR C2
+---
 Este é um projeto de servidor C2 (Command and Control) com suporte a SSL, desenvolvido em Python, que permite a comunicação segura entre um servidor e seus clientes para execução remota de comandos. O objetivo deste projeto é educacional e deve ser utilizado com ética e responsabilidade em ambientes controlados.
 
 ## Funcionalidades
